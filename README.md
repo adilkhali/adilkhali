@@ -4,6 +4,6 @@
 [![Blog Badge](https://img.shields.io/badge/Blog-adilkh.com-green)](https://www.adilkh.com/blog/)
 
 
-### About me! &nbsp;
+### About me! &nbsp;👨‍💻
 I am a Software engineer with a passion for all facets of the software development lifecycle
-I like to analyze and solve challenging problems and find ways to improve the world 🌎
+I like to analyze and solve challenging problems and finding ways to improve the world 🌎
