@@ -1,7 +1,7 @@
 ### Hey!! I'm Adil 👋 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adilkhali/)
-[![Blog Badge](https://img.shields.io/badge/Blog-heyadil.com-green)](https://www.adilkh.com/)
+[![Blog Badge](https://img.shields.io/badge/Blog-adilkh.com-green)](https://www.adilkh.com/)
 
 
 ### About me! &nbsp;
